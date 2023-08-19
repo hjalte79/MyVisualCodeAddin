@@ -1,0 +1,8 @@
+<Addin Type="Standard">
+	<ClassId>{5bcef23e-e85e-4e71-b4bf-27be93e96a11}</ClassId>
+	<ClientId>{5bcef23e-e85e-4e71-b4bf-27be93e96a11}</ClientId>
+	<DisplayName>[Name]</DisplayName>
+	<Description>[Description]</Description>
+	<Assembly>VC test2.dll</Assembly>
+	<SupportedSoftwareVersionGreaterThan>16..</SupportedSoftwareVersionGreaterThan>
+</Addin>
