@@ -8,7 +8,7 @@ using Inventor;
 
 namespace Hjalte.OccurrenceBundler
 {
-    [GuidAttribute("5bcef23e-e85e-4e71-b4bf-27be93e96a11"), ComVisible(true)]
+    [GuidAttribute("40b95db1-8bd5-4940-834e-c1efe1817acb"), ComVisible(true)]
     public class StandardAddInServer : ApplicationAddInServer
     {
         //https://forums.autodesk.com/t5/inventor-ideas/bundle-multiple-instances-of-same-part-in-assembly-tree/idi-p/5643016
@@ -18,6 +18,7 @@ namespace Hjalte.OccurrenceBundler
         {
             _inventor = addInSiteObject.Application;
             System.Windows.Forms.MessageBox.Show("Addin Loaded");
+
         }
 
         public void Deactivate()

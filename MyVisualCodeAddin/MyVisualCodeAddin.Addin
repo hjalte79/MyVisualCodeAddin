@@ -1,8 +1,8 @@
 <Addin Type="Standard">
-	<ClassId>{5bcef23e-e85e-4e71-b4bf-27be93e96a11}</ClassId>
-	<ClientId>{5bcef23e-e85e-4e71-b4bf-27be93e96a11}</ClientId>
+	<ClassId>{40b95db1-8bd5-4940-834e-c1efe1817acb}</ClassId>
+	<ClientId>{40b95db1-8bd5-4940-834e-c1efe1817acb}</ClientId>
 	<DisplayName>MyVisualCodeAddin</DisplayName>
 	<Description>[Description]</Description>
-	<Assembly>VC test2.dll</Assembly>
+	<Assembly>MyVisualCodeAddin.dll</Assembly>
 	<SupportedSoftwareVersionGreaterThan>16..</SupportedSoftwareVersionGreaterThan>
 </Addin>
