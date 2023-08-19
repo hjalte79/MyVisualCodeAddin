@@ -6,7 +6,7 @@
             "command":"C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\MSBuild.exe",
             "type":"shell",
             "args":[
-                "VC test2\\VC test2.csproj",
+                "MyVisualCodeAddin\\MyVisualCodeAddin.csproj",
                 "/t:Build",
                 "/p:Configuration=Debug",
                 "/p:Platform=\"AnyCPU\""

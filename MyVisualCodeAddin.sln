@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VC test2", "VC test2\VC test2.csproj", "{6B3CE76E-9A04-41F2-BA35-6F40807620FD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyVisualCodeAddin", "MyVisualCodeAddin\MyVisualCodeAddin.csproj", "{6B3CE76E-9A04-41F2-BA35-6F40807620FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

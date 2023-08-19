@@ -2,17 +2,6 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "MyLauncher",
-            "type": "clr",
-            "request": "launch",
-            "preLaunchTask": "mybuild",
-            "program": "${workspaceFolder}/VC test2//bin/Debug/VC test2.exe",
-            "args": [],
-            "console": "internalConsole",
-            "stopAtEntry": false,
-            "internalConsoleOptions": "openOnSessionStart"
-        },
-        {
             "name": "Inventor",
             "type": "clr",
             "request": "launch",

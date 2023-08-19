@@ -29,7 +29,6 @@
     <StartupObject />
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
     <Compile Include="StandardAddInServer.cs" />
   </ItemGroup>
   <ItemGroup>

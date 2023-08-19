@@ -11,7 +11,9 @@ namespace Hjalte.OccurrenceBundler
     [GuidAttribute("5bcef23e-e85e-4e71-b4bf-27be93e96a11"), ComVisible(true)]
     public class StandardAddInServer : ApplicationAddInServer
     {
-        private Inventor.Application _inventor;
+        //https://forums.autodesk.com/t5/inventor-ideas/bundle-multiple-instances-of-same-part-in-assembly-tree/idi-p/5643016
+
+        private Application _inventor;
         public void Activate(ApplicationAddInSite addInSiteObject, bool firstTime)
         {
             _inventor = addInSiteObject.Application;
